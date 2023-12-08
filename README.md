@@ -22,7 +22,7 @@
 
 # 📖 About the Project <a name="about-project"></a>
 
-**ROR webpack fullstack** is a basic Rails-React and Redux as one app.
+**hello-rails-react** is a basic Rails-React and Redux as one app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
